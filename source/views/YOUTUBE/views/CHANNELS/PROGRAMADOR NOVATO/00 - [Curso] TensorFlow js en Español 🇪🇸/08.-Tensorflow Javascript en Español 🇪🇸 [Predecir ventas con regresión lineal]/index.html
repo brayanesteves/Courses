@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">  
+    <head>    
+        <title>08.-Tensorflow Javascript en Español 🇪🇸 [Predecir ventas con regresión lineal]</title>
+        <meta charset="UTF-8">
+        <meta name="title" content="Prueba tensorflow">      
+
+    </head>  
+    <body>    
+        <table border="0">
+            <tbody>
+                <tr>
+                    <td>Repeticiones</td>
+                    <td><input type="number" id="repeticiones" value="100"/></td>
+                </tr>
+                <tr>
+                    <td>Valor de x</td>
+                    <td><input type="number" id="nuevoValX" value="10"/></td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td> <input type="button" value="Calcular" name="calcular" id="calcular" onclick="learnLinear()" /> </td>
+                </tr>
+                <tr>
+                    <td>Valor de Y</td>
+                    <td> <span id="valy"></span> </td>
+                </tr>
+                <tr>
+                    <td>Epoca</td>
+                    <td> <span id="epocas"></span> </td>
+                </tr>
+            </tbody>
+        </table>
+        <canvas id="myChart" width="400" height="400"></canvas>
+        
+        <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>  
+</html>
