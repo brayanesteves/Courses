@@ -1,0 +1,1 @@
+Es lo que va a contener todas las vistas de la aplicación principal, del controlador de archivos
