@@ -1,0 +1,202 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>EPPS</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+
+  <table width="100%" border="1" align="center">
+             <tbody><tr>
+                <td><center><img class="img-logo-banner" style="width:100%; height:120px;" bgcolor="#fff" src="https://www.snseguritysac.com/wp-content/uploads/2018/03/logo-global.png"></center></td>
+                <td colspan="2" class="header-table-title" bgcolor="#9BBB59"><center><b style="font-size:22px;">Estructura de costos y/o uniformes</b></center></td>                    
+              </tr>
+        </tbody></table>
+  <table id="id_equipos_comunicacion" cellspacing="0" cellpadding="0" border="1">
+    <caption><b>Equipos de comunicacion Y/U otros</b></caption>
+    <tbody><tr>
+      <th style="background-color:#8064A2; color:white;">ITEM</th>
+      <th style="background-color:#8064A2; color:white;">DESCRIPCIÓN</th>
+      <th style="background-color:#8064A2; color:white;">TRABAJADORES</th>
+      <th style="background-color:#8064A2; color:white;">ROTACIÓN</th>
+      <th style="background-color:#8064A2; color:white;">P. UNIT</th>
+      <th style="background-color:#8064A2; color:white;">TOTAL MENSUAL</th>
+    </tr>
+        <tr>
+      <td>1</td>
+      <td>CHALECO</td>
+      <td><span>1</span><input type="number" class="trabajadores CHALECO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion CHALECO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario CHALECO" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>2</td>
+      <td>ARMAS</td>
+      <td><span>1</span><input type="number" class="trabajadores ARMAS" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion ARMAS" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario ARMAS" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>3</td>
+      <td>CELULARES</td>
+      <td><span>1</span><input type="number" class="trabajadores CELULARES" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion CELULARES" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario CELULARES" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>4</td>
+      <td>GORROS</td>
+      <td><span>1</span><input type="number" class="trabajadores GORROS" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion GORROS" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario GORROS" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>5</td>
+      <td>TABLILLA</td>
+      <td><span>1</span><input type="number" class="trabajadores TABLILLA" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion TABLILLA" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario TABLILLA" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>6</td>
+      <td>CUADERNOS</td>
+      <td><span>1</span><input type="number" class="trabajadores CUADERNOS" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion CUADERNOS" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario CUADERNOS" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>7</td>
+      <td>UTILES DE OFICINA</td>
+      <td><span>1</span><input type="number" class="trabajadores UTILES DE OFICINA" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion UTILES DE OFICINA" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario UTILES DE OFICINA" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>8</td>
+      <td>BLOQUEADOR</td>
+      <td><span>1</span><input type="number" class="trabajadores BLOQUEADOR" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion BLOQUEADOR" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario BLOQUEADOR" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>9</td>
+      <td>CASCO</td>
+      <td><span>1</span><input type="number" class="trabajadores CASCO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion CASCO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario CASCO" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr>
+      <td>10</td>
+      <td>CORTAVIENTO</td>
+      <td><span>1</span><input type="number" class="trabajadores CORTAVIENTO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion CORTAVIENTO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario CORTAVIENTO" min="1" value="1"></td>
+      <td class="total_mensual"></td>
+    </tr>
+        <tr bgcolor="#808080">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b style="color:white;">TOTAL EPPS</b></td>
+      <td id="total_epp" style="color:white;">0</td>
+    </tr>
+  </tbody></table>
+
+  <!--table uniformes-->
+  <table id="table_uniformes" cellspacing="0" cellpadding="0" border="1">
+    <caption><b>Uniformes</b></caption>
+    <tbody><tr>
+      <th>ITEM</th>
+      <th>DESCRIPCIÓN</th>
+      <th>TRABAJADORES</th>
+      <th>ROTACIÓN</th>
+      <th>P. UNIT</th>
+      <th>TOTAL MENSUAL</th>
+    </tr>
+        <tr>
+      <td>1</td>
+      <td>CHALECO</td>
+      <td><span>1</span><input type="number" class="trabajadores CHALECO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion CHALECO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario CHALECO" min="1" value="1"></td>
+      <td class="total_mensual" style="color:white;"></td>
+    </tr>
+
+        <tr>
+      <td>2</td>
+      <td>ZAPATOS DE SEGURIDAD</td>
+      <td><span>1</span><input type="number" class="trabajadores ZAPATOS DE SEGURIDAD" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion ZAPATOS DE SEGURIDAD" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario ZAPATOS DE SEGURIDAD" min="1" value="1"></td>
+      <td class="total_mensual" style="color:white;"></td>
+    </tr>
+
+        <tr>
+      <td>3</td>
+      <td>CAMISA</td>
+      <td><span>1</span><input type="number" class="trabajadores CAMISA" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion CAMISA" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario CAMISA" min="1" value="1"></td>
+      <td class="total_mensual" style="color:white;"></td>
+    </tr>
+
+        <tr>
+      <td>4</td>
+      <td>CORBATA</td>
+      <td><span>1</span><input type="number" class="trabajadores CORBATA" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion CORBATA" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario CORBATA" min="1" value="1"></td>
+      <td class="total_mensual" style="color:white;"></td>
+    </tr>
+
+        <tr>
+      <td>5</td>
+      <td>GARRET</td>
+      <td><span>1</span><input type="number" class="trabajadores GARRET" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion GARRET" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario GARRET" min="1" value="1"></td>
+      <td class="total_mensual" style="color:white;"></td>
+    </tr>
+
+        <tr>
+      <td>6</td>
+      <td>ALCOHOLIMETRO</td>
+      <td><span>1</span><input type="number" class="trabajadores ALCOHOLIMETRO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion ALCOHOLIMETRO" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario ALCOHOLIMETRO" min="1" value="1"></td>
+      <td class="total_mensual" style="color:white;"></td>
+    </tr>
+
+        <tr>
+      <td>7</td>
+      <td>PANTALON</td>
+      <td><span>1</span><input type="number" class="trabajadores PANTALON" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="rotacion PANTALON" value="1" min="1"></td>
+      <td><span>1</span><input type="number" class="precio_unitario PANTALON" min="1" value="1"></td>
+      <td class="total_mensual" style="color:white;"></td>
+    </tr>
+
+        <tr bgcolor="#808080">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b style="color:white;">TOTAL UNIFORMES</b></td>
+      <td id="total_uniformes" style="color:white;">0</td>
+    </tr>
+    <tr bgcolor="#808080">
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><b style="color:white;">TOTAL EPPS/UNIFORMES</b></td>
+      <td id="total_epp_uniformes" style="color:white;">0</td>
+    </tr>
+  </tbody></table>
+
+    <button id="generar_excel" onclick="tableToExcel('pdf-content-epps', 'EPPS')" class="btn btn-primary"><i class="fa fa-file-excel-o"></i> GENERAR EXCEL</button>
+</table></body></html>
